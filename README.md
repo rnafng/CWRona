@@ -1,5 +1,7 @@
 My submission for CondoWork's UW Co-op Coding Test
+
 Name: Rona Fang
+
 Email: rona.fang@uwaterloo.ca
 
 package.json contains dependancies: readline-sync and puppeteer
