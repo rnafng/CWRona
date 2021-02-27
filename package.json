@@ -1,17 +1,9 @@
 {
-  "name": "coop",
-  "version": "1.0.0",
-  "description": "",
-  "main": "ronaParse.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "name": "condo tech int",
+  "author": "Rona Fang",
   "license": "ISC",
   "dependencies": {
-    "path": "^0.12.7",
     "puppeteer": "^7.1.0",
-    "readline": "^1.3.0",
     "readline-sync": "^1.4.10"
   }
 }
